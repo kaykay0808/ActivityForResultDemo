@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityForResultDemo</string>
+    <string name="finish">Finish</string>
+    <string name="enter_name">ENTER NAME</string>
+    <string name="enter_email">Enter email</string>
+    <string name="launch_first_activity">Launch First Activity</string>
+    <string name="launch_second_activity">Launch Second Activity</string>
+</resources>
